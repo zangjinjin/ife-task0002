@@ -29,3 +29,8 @@ function cloneObject(src) {
     }
  
 }
+function uniqArray(arr) {
+    var newarr=[];
+    for(var)
+}
+http://blog.csdn.net/chengxuyuan20100425/article/details/8497277
